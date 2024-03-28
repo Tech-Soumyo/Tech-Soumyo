@@ -23,12 +23,12 @@
 </p>
 
 - 🔭 I’m currently working on [Youtube
-Backend](https://github.com/Tech-Soumyo/backend-project) - 🌱 I’m currently
-learning **GCP, Next.js, TypeScript, Python, Docker, Kubernetes** - 👯 I’m
-looking to collaborate on **Backend Projects** - 💬 Ask me about **Web
-Development, Cloud Technology** - 📫 How to reach me
-**www.linkedin.com/in/soumyodeep-dutta-699a1a204** - ⚡ Fun fact **Future
-winners are always hidden from view**
+Backend](https://github.com/Tech-Soumyo/backend-project)
+ - 🌱 I’m currently learning **GCP, Next.js, TypeScript, Python, Docker, Kubernetes**
+- 👯 I’m looking to collaborate on **Backend Projects**
+- 💬 Ask me about **Web Development, Cloud Technology**
+- 📫 How to reach me **www.linkedin.com/in/soumyodeep-dutta-699a1a204**
+- ⚡ Fun fact **Future winners are always hidden from view**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
