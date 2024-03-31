@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Souymyodeep dutta</h1>
+<h1 align="center">Hi 👋, I'm Souymyodeep</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img
   align="right"
