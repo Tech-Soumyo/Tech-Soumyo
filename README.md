@@ -6,9 +6,10 @@
 
 <h3>
   - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
-  - 📦 Blockchain enthusiast with 3+ years of experience in designing, developing, and deploying innovative solutions<br/>
-  - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
-  - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
+  - 👍 Learning DevOps, CI/CD, and Cloud infrastructure, especially with GCP and Cloudflare<br/>
+  - 💬 Ask me about **Web Development, Cloud Technology**<br/>
+  - 📫 How to reach me **www.linkedin.com/in/soumyodeep-dutta-699a1a204**<br/>
+  - ⚡ Fun fact **Future winners are always hidden from view**<br/>
 </h3>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
