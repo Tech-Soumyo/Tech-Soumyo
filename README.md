@@ -31,7 +31,15 @@
     ><img
       src="https://img.shields.io/twitter/follow/soumyodeep60298?logo=twitter&style=for-the-badge"
       alt="soumyodeep60298"
-  /></a>
+  />Tweeter</a>
+</p>
+
+<p align="left">
+  <a href="https://linkedin.com/in/soumyodeep dutta" target="blank"
+    ><img
+      src="https://img.shields.io/twitter/follow/soumyodeep60298?logo=twitter&style=for-the-badge"
+      alt="soumyodeep60298"
+  />Linkedin</a>
 </p>
 
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
