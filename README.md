@@ -2,8 +2,6 @@
 
 <h1> 💫 About Me  </h1>
 
-
-
 <h3>
   - 🔭 Full-stack developer with Next.js and Mern Stack and building scalable, high-performance web applications<br/>
   - 👍 Learning DevOps, CI/CD, and Cloud infrastructure, especially with GCP and Cloudflare<br/>
@@ -11,6 +9,31 @@
   - 📫 How to reach me <a href="https://linkedin.com/in/soumyodeep dutta">**Soumyodeep**</a><br/>
   - ⚡ Fun fact **Future winners are always hidden from view**<br/>
 </h3>
+<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<br/><br/>
+
+<img
+  align="right"
+  alt="Coding"
+  width="400"
+  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
+/>
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=tech-soumyo&label=Profile%20views&color=0e75b6&style=flat"
+    alt="tech-soumyo"
+  />
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/soumyodeep60298" target="blank"
+    ><img
+      src="https://img.shields.io/twitter/follow/soumyodeep60298?logo=twitter&style=for-the-badge"
+      alt="soumyodeep60298"
+  /></a>
+</p>
+
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
 
