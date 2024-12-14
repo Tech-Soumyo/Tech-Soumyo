@@ -46,7 +46,7 @@
 <br/><br/>
 
 ### Tools
-<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" /></a>
+<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEpU3mEFYOnLFuVVMfNCQxLNmyRjoN5sxGg&s" /></a>
 <a href="https://www.prisma.io/" target="_blank"><img align="left" alt="Prisma" width="50px" style="padding:10px;" src="https://w7.pngwing.com/pngs/130/82/png-transparent-prisma-hd-logo.png" /></a>
 <a href="https://orm.drizzle.team/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://avatars.githubusercontent.com/u/108468352?v=4" /><br/></a>
 <br/><br/>
