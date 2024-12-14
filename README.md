@@ -8,7 +8,7 @@
   - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
   - 👍 Learning DevOps, CI/CD, and Cloud infrastructure, especially with GCP and Cloudflare<br/>
   - 💬 Ask me about **Web Development, Cloud Technology**<br/>
-  - 📫 How to reach me <a href="www.linkedin.com/in/soumyodeep-dutta-699a1a204">**Soumyodeep**</a><br/>
+  - 📫 How to reach me <a href="https://linkedin.com/in/soumyodeep dutta">**Soumyodeep**</a><br/>
   - ⚡ Fun fact **Future winners are always hidden from view**<br/>
 </h3>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
