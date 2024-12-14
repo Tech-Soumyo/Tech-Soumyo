@@ -5,7 +5,7 @@
 
 
 <h3>
-  - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
+  - 🔭 Full-stack developer with Next.js and Mern Stack and building scalable, high-performance web applications<br/>
   - 👍 Learning DevOps, CI/CD, and Cloud infrastructure, especially with GCP and Cloudflare<br/>
   - 💬 Ask me about **Web Development, Cloud Technology**<br/>
   - 📫 How to reach me <a href="https://linkedin.com/in/soumyodeep dutta">**Soumyodeep**</a><br/>
