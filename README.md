@@ -12,39 +12,6 @@
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
 
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
-/>
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=tech-soumyo&label=Profile%20views&color=0e75b6&style=flat"
-    alt="tech-soumyo"
-  />
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/soumyodeep60298" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/soumyodeep60298?logo=twitter&style=for-the-badge"
-      alt="soumyodeep60298"
-  />Tweeter</a>
-</p>
-
-<p align="left">
-  <a href="https://linkedin.com/in/soumyodeep dutta" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/soumyodeep60298?logo=twitter&style=for-the-badge"
-      alt="soumyodeep60298"
-  />Linkedin</a>
-</p>
-
-<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
-<br/><br/>
-
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
 
